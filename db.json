@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": "f2d27af8-ca9f-4a34-af96-b3720cb87341",
+      "name": "Jon's Plant",
+      "image": "https://www.thespruce.com/thmb/wk7E8QR8tupq0aTYkk3QUXJuI7c=/2800x2800/smart/filters:no_upscale()/peanut-cactus-profile-5181579-hero-b8e88018fb5d43ab9614e978ba56afa6.jpg",
+      "price": "3.04"
     }
   ]
 }
